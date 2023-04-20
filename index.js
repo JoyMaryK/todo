@@ -1,9 +1,5 @@
 
-const todos = [
-    { id: 1, title: "wash dishes", is_complete: false },
-      { id: 2, title: "wash clothes", is_complete: false },
-      { id: 3, title: "cook lunch", is_complete: false }
-]
+const todos = []
 
 const todo_container = document.querySelector(".todos")
 
